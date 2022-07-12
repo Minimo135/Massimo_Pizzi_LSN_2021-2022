@@ -1,0 +1,10 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/massimo/Documents/Uni/Simulazione_Numerica/Esercitazioni/Esercitazione_3",
+            "binaryPath": "/home/massimo/Documents/Uni/Simulazione_Numerica/Esercitazioni/Esercitazione_3/Esercizio_3.exe",
+            "binaryArgs": []
+        }
+    ]
+}
